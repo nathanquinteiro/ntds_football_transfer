@@ -2,3 +2,4 @@ scraper/.*
 scraper/data/players/
 scraper/data/players.zip
 scraper/data/old_players/
+graph/.*
