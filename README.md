@@ -17,8 +17,8 @@ We then used the data to analyze the transfer patterns, geographically and accor
 The figure 2 is a heatmap representing where the money is spent on the market transfer, in Europe and South America
 
 <div align="center">
-    <img src="img/am_spend.png" width="480">
-    <img src="img/eur_spend.png" width="480">
+    <img src="img/am_spend.png" width="420">
+    <img src="img/eur_spend.png" width="420">
     <p>Figure 2: Heatmap of money spent in transfers by clubs - S. America and Europe</p>
 </div>
 
@@ -27,8 +27,8 @@ We can observe, as all football amateur would expect, that the big European leag
 The figure 3 is a heatmap representing where the benefits is made on the market transfer, in Europe and South America
 
 <div align="center">
-    <img src="img/am_ben.png" width="480">
-    <img src="img/eur_ben.png" width="480">
+    <img src="img/am_ben.png" width="420">
+    <img src="img/eur_ben.png" width="420">
     <p>Figure 3: Heatmap of benefits made in transfers by clubs - S. America and Europe</p>
 </div>
 
@@ -43,8 +43,8 @@ We also notice that South America is way more visible on the benefits heatmap, c
 Figure 4 shows the interactions between the clubs, using the transfer as edges and clubs as nodes with their latitude and logitude as coordinates. The transfer amount influence the color of the edges, darker edges indicates larger transfer fees.
 
 <div align="center">
-    <img src="img/world_transfers.png" width="820">
+    <img src="img/world_transfers.png" width="840">
     <p>Figure 4: Weighted and located world transfers graph</p>
 </div> 
 
-
+We observe that transfer between European clubs(top center), and South American clubs (bottom left) represents the biggest intercontinental market.
